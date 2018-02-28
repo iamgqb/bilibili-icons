@@ -1,0 +1,17 @@
+{
+  "name": "bilibili-icons",
+  "version": "1.0.0",
+  "description": "bilibili icons",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bilibili"
+  ],
+  "author": "qingbo.gqb",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.0.3"
+  }
+}
